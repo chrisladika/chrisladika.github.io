@@ -1,0 +1,4 @@
+baseURL = 'https://cazenov.github.io/'
+languageCode = 'en-us'
+title = 'Homelab Blog'
+theme = 'PaperMod'
